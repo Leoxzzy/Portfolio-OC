@@ -12,7 +12,7 @@ function Home() {
     const [loading, setLoading] = useState(true)
 
     useEffect(() => {
-        fetch('./data.json')
+        fetch(process.env.PUBLIC_URL + '/data.json')
         .then((response) => {
             if (!response.ok) { throw new Error('Une erreur est survenue lors du chargement des données: ' + response.status); }
             return response.json()
