@@ -1,0 +1,154 @@
+{
+    "aboutMe": "Salut, je suis Samuel. J'ai suivi le cursus Développeur Web chez OpenClassrooms, où j'ai acquis des compétences solides en HTML, CSS, JavaScript, React, Express et MongoDB. J'ai également été formé aux bases de la gestion de projet. Mon objectif est de concevoir des solutions performantes et adaptées, en combinant savoir-faire technique et organisation efficace.",
+    "projects": [
+        {
+            "id": 1,
+            "title": "Booki",
+            "subTitle": "Créez la page d'accueil d'une agence de voyage avec HTML & CSS - Projet OpenClassrooms",
+            "url": "https://github.com/Leoxzzy/Booki-OC",
+            "descriptions": [
+                "Dans ce projet, j'ai intégré une page d'accueil responsive pour une agence de voyage, en utilisant HTML et CSS pour structurer le contenu selon les maquettes Figma, tout en adaptant les styles aux différents formats d'écran et en assurant la compatibilité mobile, tablette et desktop.",
+                "En travaillant sur l'intégration, j'ai surmonté les défis liés à la structuration manuelle du code HTML et CSS en respectant les maquettes Figma. Cela m'a permis de renforcer mes compétences en responsive design, tout en assurant la compatibilité avec différents appareils et en consolidant mes bases techniques."
+            ],
+            "images": [
+                {
+                    "imageURL": "https://i.imgur.com/ox9oILj.jpeg",
+                    "alt": "Couverture du projet Booki"
+                },
+                {
+                    "imageURL": "https://i.imgur.com/ERugWmP.png",
+                    "alt": "Interface du projet Booki"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Sophie Bluel",
+            "subTitle": "Créez une page web dynamique avec JavaScript - Projet OpenClassrooms",
+            "url": "https://github.com/Leoxzzy/Sophie-Bluel-OC",
+            "descriptions": [
+                "Dans ce projet, j'ai construit une page web dynamique pour un site d'architecture d'intérieur, en utilisant JavaScript pour manipuler le DOM et gérer les interactions utilisateurs, tout en intégrant une API back-end pour permettre une connexion admin et le téléchargement de médias via une modale.",
+                "J'ai intégré la présentation des travaux de l'architecte à partir de maquettes Figma et d'un HTML de base, en optimisant la gestion des événements utilisateurs et la communication avec le back-end via des appels API, pour un affichage fluide et fonctionnel des contenus dynamiques du site web.",
+                "En suivant les étapes du projet, j'ai utilisé GitHub pour versionner le code et organiser mes progrès. Cela m'a permis de suivre les différentes versions du projet, de gérer efficacement les modifications et d'assurer une meilleure structure du développement, tout en renforçant mes compétences en gestion de code.",
+                "J'ai surmonté la complexité de la gestion des interactions utilisateurs en JavaScript pour construire une page dynamique d'architecture d'intérieur. En intégrant une API back-end et en utilisant GitHub pour versionner le code, j'ai optimisé la présentation des contenus, assurant un affichage fluide et une communication efficace entre le front-end et le back-end."
+            ],
+            "images": [
+                {
+                    "imageURL": "https://i.imgur.com/mnVdO15.png",
+                    "alt": "Couverture du projet Sophie Bluel"
+                },
+                {
+                    "imageURL": "https://i.imgur.com/ZyRuQ1X.png",
+                    "alt": "Interface du projet Sophie Bluel"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Nina Carducci",
+            "subTitle": "Débuggez et optimisez un site de photographe - Projet OpenClassrooms",
+            "url": "https://github.com/Leoxzzy/NinaCarducci-OC",
+            "descriptions": [
+                "Dans le cadre de ce projet, j'ai identifié et documenté des problèmes de chargement et de référencement en utilisant des outils comme Lighthouse et Wave. J'ai pu analyser l'application pour établir des recommandations d'optimisation ciblées.",
+                "Mon travail a impliqué la mise en œuvre de modifications pour améliorer la vitesse de chargement et la structure du code. j'ai aussi appliqué des pratiques pour optimiser le référencement, ce qui a nécessité une revue approfondie du code pour maximiser la visibilité du site sur les moteurs de recherche.",
+                "Après les améliorations effectuées, j'ai préparé un rapport comparatif avant/après avec des captures d'écran et des explications. Ce rapport visait à montrer les gains en termes de performances et d'accessibilité du site, soulignant l'impact de chaque changement sur l'optimisation du référencement."
+            ],
+            "images": [
+                {
+                    "imageURL": "https://i.imgur.com/4it1Irr.jpg",
+                    "alt": "Couverture du projet Nina Carducci"
+                },
+                {
+                    "imageURL": "https://i.imgur.com/qg6wGcs.png",
+                    "alt": "Résultats Lighthouse avant optimisations"
+                },
+                {
+                    "imageURL": "https://i.imgur.com/oEMn4Zu.png",
+                    "alt": "Résultats Lighthouse après optimisations"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Kasa",
+            "subTitle": "Créez une application web de location immobilière avec React - Projet OpenClassrooms",
+            "url": "https://github.com/Leoxzzy/Kasa-OC",
+            "descriptions": [
+                "Dans ce projet, j'ai conçu une interface utilisateur en React en suivant des maquettes précises. J'ai utilisé React Router pour gérer la navigation entre les pages et structurer le routage. Les données provenant d’un fichier JSON ont été affichées en utilisant des composants modulaires pour assurer une logique claire.",
+                "J'ai mis en œuvre des styles personnalisés avec SASS pour garantir la conformité aux maquettes. Des animations CSS ont été intégrées pour améliorer l'expérience utilisateur. En utilisant Create React App et Node.js, j'ai simplifié l'environnement de développement et optimisé la gestion des styles dans une approche modulaire.",
+                "L'utilisation de React Router m'a permis de comprendre les principes fondamentaux du routage dans les applications web modernes. J'ai également appris à gérer des données simulées et à structurer des composants réutilisables pour créer une interface front-end interactive et conforme aux exigences d'un projet professionnel."
+            ],
+            "images": [
+                {
+                    "imageURL": "https://i.imgur.com/I2KXPK0.jpg",
+                    "alt": "Couverture du projet Kasa"
+                },
+                {
+                    "imageURL": "https://i.imgur.com/tzQOByz.png",
+                    "alt": "Interface du projet Booki"
+                },
+                {
+                    "imageURL": "https://i.imgur.com/gQiITcg.png",
+                    "alt": "Interface du projet Booki"
+                },
+                {
+                    "imageURL": "https://i.imgur.com/WUt5ctG.png",
+                    "alt": "Interface du projet Booki"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "MonVieuxGrimoire",
+            "subTitle": "Développez le back-end d'un site de notation de livres - Projet OpenClassrooms",
+            "url": "https://github.com/Leoxzzy/MonVieuxGrimoire-OC",
+            "descriptions": [
+                "Dans le cadre de ce projet, j'ai développé un serveur back-end avec Express en intégrant Mongoose pour modéliser les données dans MongoDB, tout en créant et en gérant des opérations CRUD pour les livres et leurs notations, incluant une attention particulière à la sécurité des données et à leur stockage.",
+                "J'ai conçu un système d'authentification sécurisé pour les utilisateurs du site en utilisant des techniques standard du secteur, tout en implémentant des fonctionnalités telles que le téléchargement d'images, leur optimisation, et le calcul des notes moyennes, en veillant à respecter les bonnes pratiques de développement durable.",
+                "Ce projet m'a permis de mieux comprendre le rôle des API RESTful dans le développement d'applications web, en m'entraînant à structurer un serveur selon des principes clairs et modulaires, tout en appliquant des concepts fondamentaux du back-end tels que la communication entre le serveur et la base de données."
+            ],
+            "images": [
+                {
+                    "imageURL": "https://i.imgur.com/KiV2mta.jpg",
+                    "alt": "Couverture du projet MonVieuxGrimoire"
+                },
+                {
+                    "imageURL": "https://i.imgur.com/n8IKufj.png",
+                    "alt": "Interface du projet MonVieuxGrimoire"
+                },
+                {
+                    "imageURL": "https://i.imgur.com/Sv7jvOV.png",
+                    "alt": "Interface du projet MonVieuxGrimoire"
+                },
+                {
+                    "imageURL": "https://i.imgur.com/hTjPmE6.png",
+                    "alt": "Interface du projet MonVieuxGrimoire"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Menu Maker By Qwenta",
+            "subTitle": "Planifiez le développement du site de votre client - Projet OpenClassrooms",
+            "descriptions": [
+                "Dans ce projet, j'ai planifié le développement d'un site web en m'appuyant sur les maquettes, les spécifications fonctionnelles et les User Stories fournies, en rédigeant des spécifications techniques détaillées et en utilisant un tableau Kanban pour organiser les tâches et structurer le suivi.",
+                "J'ai réalisé une veille technologique pour identifier des outils et technologies adaptés au projet, documenté les besoins fonctionnels, décomposé les fonctionnalités en tâches concrètes, et créé une solution technique organisée avec des méthodes de gestion de projet structurées pour un déroulement optimal.",
+                "Le projet m'a permis d'acquérir des compétences en planification et organisation, notamment en traduisant des besoins fonctionnels en tâches techniques, en suivant les tendances du secteur via un système de veille et en utilisant un outil collaboratif pour assurer une coordination efficace des différentes étapes."
+            ],
+            "images": [
+                {
+                    "imageURL": "https://i.imgur.com/4eI7GBO.jpg",
+                    "alt": "Couverture du projet Qwenta"
+                },
+                {
+                    "imageURL": "https://i.imgur.com/VLFITAJ.png",
+                    "alt": "Interface du projet Qwenta"
+                },
+                {
+                    "imageURL": "https://i.imgur.com/HnKMAhd.png",
+                    "alt": "Interface du projet Qwenta"
+                }
+            ]
+        }
+    ]
+}

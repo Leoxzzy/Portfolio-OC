@@ -1,0 +1,63 @@
+#contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 132px;
+
+    form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 16px;
+
+        max-width: 1000px;
+        width: 90%;
+
+        button {
+            color: black;
+            background-color: white;
+            border-radius: 16px;
+            border: none;
+            font-weight: 600;
+            padding: 10px 25px 10px 25px;
+
+            &:hover {
+                background-color: rgb(212, 212, 212);
+                color: white;
+                cursor: pointer;
+            }
+        }
+
+        .contact-input {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+            width: 100%;
+            
+            label {
+                margin-left: 8px;
+                font-size: 16px;
+            }
+
+            input, textarea {
+                padding: 10px;
+                box-sizing: border-box;
+                font-size: 16px;
+                width: 100%;
+                border: none;
+                outline: none;
+                border-radius: 8px;
+                color: black;
+            }
+
+            #name, #mail {
+                height: 40px;
+            }
+
+            #message {
+                height: 100px;
+            }
+        }
+
+    }
+}

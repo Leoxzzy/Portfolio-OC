@@ -1,0 +1,41 @@
+header {
+    margin-top: 32px;
+    width: 90%;
+    max-width: 1500px;
+
+    nav {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        box-sizing: border-box;
+        padding: 10px;
+
+        span {
+            font-size: 24px;
+            font-weight: 600;
+        }
+
+        ul {
+            display: flex;
+            flex-direction: row;
+            gap: 24px;
+
+            li {
+                list-style: none;
+                a {
+                    font-size: 16px;
+                    text-decoration: none;
+                }
+
+                &:hover {
+                    text-decoration: underline;
+                    cursor: pointer;
+                }
+            }
+        }
+        @media (max-width: 310px) {
+            flex-direction: column;
+        }
+    }
+}
